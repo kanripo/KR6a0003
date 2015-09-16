@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 毘婆尸佛經
+#+DATE: 2015-08-30 19:27:46.202352
+#+PROPERTY: JUAN 0
